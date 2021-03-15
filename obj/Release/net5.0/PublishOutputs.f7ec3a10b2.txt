@@ -1,0 +1,6 @@
+/home/nandhakumar/Documents/MyGit/espansoyamleditor/bin/Release/net5.0/publish/espansoeditor
+/home/nandhakumar/Documents/MyGit/espansoyamleditor/bin/Release/net5.0/publish/espansoeditor.dll
+/home/nandhakumar/Documents/MyGit/espansoyamleditor/bin/Release/net5.0/publish/espansoeditor.deps.json
+/home/nandhakumar/Documents/MyGit/espansoyamleditor/bin/Release/net5.0/publish/espansoeditor.runtimeconfig.json
+/home/nandhakumar/Documents/MyGit/espansoyamleditor/bin/Release/net5.0/publish/espansoeditor.pdb
+/home/nandhakumar/Documents/MyGit/espansoyamleditor/bin/Release/net5.0/publish/YamlDotNet.dll
