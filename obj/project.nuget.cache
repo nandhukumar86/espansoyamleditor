@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vwt2wanzpPowsdG7tlC7krlnrgWbqm/eKdUAvswJDqQqr2diM8k0pZkcKTndsbO6cbvYejgygKRMSgtEAyCAGA==",
+  "dgSpecHash": "b8BBbDnXUh4zZZ8JjlI91diRUYwys2N/f88S7A5AkfGuK75fuS/kkYT4YbKuTRYcskYAAn3MXTJHU/sOtenA7w==",
   "success": true,
-  "projectFilePath": "/home/nandhakumar/Documents/Samples/espansoeditor/espansoeditor.csproj",
+  "projectFilePath": "/home/nandhakumar/Documents/MyGit/espansoyamleditor/espansoeditor.csproj",
   "expectedPackageFiles": [
     "/home/nandhakumar/.nuget/packages/yamldotnet/9.1.4/yamldotnet.9.1.4.nupkg.sha512"
   ],

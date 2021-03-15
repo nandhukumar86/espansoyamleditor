@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nandhakumar/Documents/Samples/espansoeditor/espansoeditor.csproj": {}
+    "/home/nandhakumar/Documents/MyGit/espansoyamleditor/espansoeditor.csproj": {}
   },
   "projects": {
-    "/home/nandhakumar/Documents/Samples/espansoeditor/espansoeditor.csproj": {
+    "/home/nandhakumar/Documents/MyGit/espansoyamleditor/espansoeditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nandhakumar/Documents/Samples/espansoeditor/espansoeditor.csproj",
+        "projectUniqueName": "/home/nandhakumar/Documents/MyGit/espansoyamleditor/espansoeditor.csproj",
         "projectName": "espansoeditor",
-        "projectPath": "/home/nandhakumar/Documents/Samples/espansoeditor/espansoeditor.csproj",
+        "projectPath": "/home/nandhakumar/Documents/MyGit/espansoyamleditor/espansoeditor.csproj",
         "packagesPath": "/home/nandhakumar/.nuget/packages/",
-        "outputPath": "/home/nandhakumar/Documents/Samples/espansoeditor/obj/",
+        "outputPath": "/home/nandhakumar/Documents/MyGit/espansoyamleditor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nandhakumar/.nuget/NuGet/NuGet.Config"
