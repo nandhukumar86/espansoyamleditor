@@ -1,0 +1,8 @@
+name: me
+parent: default
+matches:
+- trigger: ":abc"
+  replace: "abc"
+- trigger: ":abc"
+  replace: "My replace element"
+...
